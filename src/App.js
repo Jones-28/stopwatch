@@ -2,7 +2,7 @@ import "./App.css";
 import Watch from "./components/Watch";
 function App() {
   return (
-    <div className="App">
+    <div className="apps">
       <Watch />
     </div>
   );
